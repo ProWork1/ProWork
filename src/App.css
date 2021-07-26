@@ -1,2 +1,14 @@
 @import './skin.css';
 @import './main.css';
+
+.carousel-inner {
+    height: 600px !important;
+    padding-top: 186px !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+}
+
+.carousel-caption {
+    position: unset !important;
+}
